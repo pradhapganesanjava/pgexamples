@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CarFactory>
+    <car>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+    </car>
+    <car>
+        <brand>BMW</brand>
+        <model>series1</model>
+    </car>
+    <car>
+        <brand>Chevy</brand>
+        <model>sport</model>
+    </car>
+    <factoryName>Miami</factoryName>
+</CarFactory>
